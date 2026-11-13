@@ -1,0 +1,6 @@
+{
+  "name": "Texto Diario · Alarma con Voz IA",
+  "description": "Lector del texto diario de jw.org en español con alarma programable por día de la semana y lectura automática con voz de IA.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
